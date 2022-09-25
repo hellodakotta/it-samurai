@@ -1,0 +1,28 @@
+.dialogsContent {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: row;
+    width: 100%;
+    flex: 1;
+    background: #fff;
+}
+.dialogsColumn {
+    border-right: 1px solid #ccc;
+    padding: 20px;
+    width: 30%;
+    height: 100%;
+}
+.messagesColumn {
+    padding: 20px;
+    height: 100%;
+    width: 70%;
+}
+
+.dialogsColumn .active {
+    color: red;
+}
+
+.message {
+
+}

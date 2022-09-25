@@ -1,0 +1,17 @@
+.nav {
+    background-color: pink;
+    padding: 20px;
+}
+
+.item {
+    color: #fff;
+    text-decoration: none;
+}
+
+.item.active {
+    color: red;
+}
+
+.sidebar {
+    width: 25%;
+}

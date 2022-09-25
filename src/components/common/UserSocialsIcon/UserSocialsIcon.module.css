@@ -1,0 +1,8 @@
+.socialIcon{
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+    background: #395398;
+    border-radius: 50%;
+    display: inline-block;
+}

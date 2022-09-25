@@ -1,0 +1,11 @@
+.friends {
+    position: relative;
+}
+.friends h4 {
+text-align: center;
+}
+.items {
+    max-width: 100%;
+    background: lightskyblue;
+    padding-top: 20px;
+}

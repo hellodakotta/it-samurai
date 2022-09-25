@@ -1,0 +1,12 @@
+.status {
+    font-style: italic;
+    color: forestgreen;
+    border: 1px dashed green;
+    display: inline-block;
+    padding: 5px;
+    margin-bottom:15px;
+}
+
+#statusLabel {
+
+}

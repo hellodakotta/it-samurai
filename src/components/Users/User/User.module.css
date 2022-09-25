@@ -1,0 +1,54 @@
+.item {
+    border: 1px solid grey;
+    margin-bottom: 20px;
+    padding: 5px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.left {
+    width: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.userpic img {
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+    border-radius: 50%;
+}
+.right {
+padding-left: 20px;
+}
+
+.status {
+    font-style: italic;
+    color: gray;
+    margin-top:5px;
+}
+.btnFollow, .btnUnfollow {
+    color: #fff;
+    border: none;
+    padding: 5px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.btnFollow:disabled, .btnUnfollow:disabled {
+    background: #cccccc;
+}
+.btnFollow {
+   background: blue;
+    
+}
+
+.btnUnfollow {
+    background: brown;
+}
+
+.inProgress {
+    background: #cccccc;
+}

@@ -1,0 +1,14 @@
+.selectedPage {
+    font-weight: 600;
+}
+
+.page {
+    padding: 5px;
+    display: inline-block;
+}
+
+.paginator a {
+    cursor: pointer;
+    color: blue;
+}
+

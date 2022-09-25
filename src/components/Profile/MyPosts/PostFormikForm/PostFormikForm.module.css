@@ -1,0 +1,19 @@
+button:disabled {
+    opacity: .5;
+}
+
+
+
+.hasError textarea, .hasError input, .hasError select {
+    border: 1px solid brown;
+    background: #f3caca;
+}
+
+.errorMessage {
+    display: none;
+    color: brown;
+    margin-bottom: 10px;
+}
+.hasError .errorMessage {
+    display: block;
+}

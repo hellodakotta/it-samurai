@@ -1,0 +1,17 @@
+
+.aboutMe {
+    font-style: italic;
+    margin-bottom:15px;
+}
+.job_desc {
+    font-style: italic;
+}
+.contacts {
+    margin: 20px 0;
+}
+.contacts a {
+        margin-left: 5px;
+}
+.contacts a:first-child {
+    margin-left: 0;
+}
